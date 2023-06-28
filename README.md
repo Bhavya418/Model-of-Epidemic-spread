@@ -10,21 +10,36 @@ population of total number, N (x0 ≪ N). Thereafter, the growth rate of x is x�
 z˙ = Bx. In these coupled first-order equations, A is the infection rate and B is the removal rate (A, B > 0). Now define ρ = B/A.
 5) According to the Threshold Theorem of Epidemiology, an epidemic will break out in a population if
 y0 > ρ.
+<br />
 #Figure 1
+<br />
 ![Alt text](Figure_1.png)
+<br />
 #Figure 2
+<br />
 ![Alt text](Figure_2.png)
+<br />
 #Figure 3
+<br />
 ![Alt text](Figure_3.png)
+<br />
 #Figure 4
+<br />
 ![Alt text](Figure_4.png)
+<br />
 #Figure 5
+<br />
 ![Alt text](Figure_5.png)
+<br />
 #Figure 6
 ![Alt text](Figure_6.png)
+<br />
 #Figure 7
+<br />
 ![Alt text](Figure_7.png)
+<br />
 #Figure 8
+<br />
 ![Alt text](Figure_8.png)
 
 
