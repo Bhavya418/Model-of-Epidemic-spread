@@ -11,35 +11,57 @@ z˙ = Bx. In these coupled first-order equations, A is the infection rate and B 
 5) According to the Threshold Theorem of Epidemiology, an epidemic will break out in a population if
 y0 > ρ.
 <br />
-#Figure 1
+
+# Figure 1
 <br />
+
 ![Alt text](Figure_1.png)
 <br />
-#Figure 2
+
+# Figure 2
+
 <br />
+
 ![Alt text](Figure_2.png)
 <br />
-#Figure 3
+
+# Figure 3
+
 <br />
+
 ![Alt text](Figure_3.png)
 <br />
-#Figure 4
+
+# Figure 4
+
 <br />
+
 ![Alt text](Figure_4.png)
 <br />
-#Figure 5
+
+# Figure 5
+
 <br />
+
 ![Alt text](Figure_5.png)
 <br />
-#Figure 6
+
+# Figure 6
+<br />
+
 ![Alt text](Figure_6.png)
 <br />
-#Figure 7
+
+# Figure 7
 <br />
+
 ![Alt text](Figure_7.png)
 <br />
-#Figure 8
+
+# Figure 8
+
 <br />
+
 ![Alt text](Figure_8.png)
 
 
